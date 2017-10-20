@@ -1,0 +1,11 @@
+terminado 17 pero falta el 16 asi que habria que espejar un par de codigo, 
+despues lo hagocuando este
+
+terminado todo 18
+
+terminado todo 19
+
+
+Agregar Laravel Collective
+
+https://laravelcollective.com/docs/master/html
